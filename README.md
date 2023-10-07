@@ -1,5 +1,8 @@
 # ppfx
 
+
+Doxygen generated files are here: https://physnerds.github.io/ppfx/index.html
+
 This is new repository for official PPFX development intended to support experiments over the long term.
 
 It is maintained by the original authors (Leo Aliaga, Mike Kordosky) with help from others.
